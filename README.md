@@ -46,7 +46,7 @@ A modular open-source investigation toolkit designed to identify potential Insta
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Instagram-Impersonation-Detection.git
+git clone https://github.com/ahmedsalem74/Instagram-Impersonation-Detection.git
 cd Instagram-Impersonation-Detection
 ```
 
